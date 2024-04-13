@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">NMedia</string>
+    <string name="author">ГБПОУ ВО "БТПИТ"</string>
+    <string name="published">30 мар в 13:13</string>
+    <string name="osnovnoitext">ЛИДЕР ДВИЖЕНИЯ ПЕРВЫХ
+29 марта студент 2 курса Бараненко Максим Борисоглебского техникума промышленных и информационных технологий совместно с советником директора по воспитанию Алехиной Светланой приняли участие в территориальном этапе регионального конкурса «Лидер Движения Первых Воронежской области», который проходил на базе МОУ Новохоперской СОШ N2.
+Ребята проходили испытания по следующим темам: «Эрудит», «Оратор», «Работа в команде».</string>
+    <string name="todo">TODO</string>
+    <string name="_10">10</string>
+    <string name="_5">1</string>
+    <string name="tritochki">Меню</string>
+    <string name="repostbnt">Репост</string>
+    <string name="like">Нравится</string>
+    <string name="share">Share</string>
+    <string name="txtpost2" translatable="false">Текст поста</string>
+    <string name="delet" translatable="false">Удалить пост</string>
+    <string name="edit" translatable="false">Изменить пост</string>
+    <string name="error_empty_content" translatable="false">Ошибка</string>
+    <string name="chooser_share_post" translatable="false">Поделиться постом</string>
+    <string name="description_post_save" translatable="false">Сохранить</string>
+    <string name="cancel" translatable="false">Отменить</string>
+    <string name="play" translatable="false">Включить</string>
+</resources>
+
+
